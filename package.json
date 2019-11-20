@@ -1,0 +1,24 @@
+{
+  "name": "runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKomm/hardcore-functional-js-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKomm/hardcore-functional-js-workshop/issues"
+  },
+  "homepage": "https://github.com/AlexKomm/hardcore-functional-js-workshop#readme",
+  "dependencies": {
+    "qunit": "^2.9.3",
+    "ramda": "^0.26.1"
+  }
+}
