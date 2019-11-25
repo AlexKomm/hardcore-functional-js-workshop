@@ -39,9 +39,6 @@ const Box = x =>
 // Keep these tests passing!
 // Bonus points: no curly braces
 
-
-
-
 // Ex1: Using Box, refactor moneyToFloat to be unnested.
 // =========================
 const moneyToFloat_ = str =>
